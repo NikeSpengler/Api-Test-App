@@ -1,3 +1,3 @@
-# Movielist
+# Movie-App
 
-- My first tryout working with API
+- My first tryout working with API. 
