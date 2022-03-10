@@ -1,3 +1,4 @@
 # Movie-App
 
-- My first tryout working with API. 
+- JavaScript that fetch movietitles from an existing API
+online.
